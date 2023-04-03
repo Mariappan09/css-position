@@ -1,0 +1,159 @@
+*{
+	padding:0;
+	margin:0;
+
+}
+.box1{
+	width:100px;
+	height:100px;
+	color:white;
+	border:7px solid yellow;
+	position:static;
+}
+.box2{
+	width:100px;
+	height:100px;
+	color:white;
+	border:7px solid red;
+	position:static;
+}
+.main{
+	border:7px solid aqua;
+    width:500px;	
+    height:500px;	
+	
+}
+.box3{
+	width:100px;
+	height:100px;
+	color:white;
+	position:static;
+	border:7px solid blue;
+}
+.box4{
+	width:100px;
+	height:100px;
+	color:white;
+	border:7px solid yellow;
+	position:relative;
+}
+.box5{
+	width:100px;
+	height:100px;
+	color:white;
+	border:7px solid red;
+	position:relative;
+	right:50px;
+}
+.box6{
+	width:100px;
+	height:100px;
+	color:white;
+	border:7px solid yellow;
+	position:relative;
+	left:50px;
+}
+.box7{
+	width:100px;
+	height:100px;
+	color:white;
+	border:7px solid red;
+	position:relative;
+	bottom:50px;
+}
+.box8{
+	width:100px;
+	height:100px;
+	color:white;
+	position:static;
+	border:7px solid blue;
+}
+.box9{
+	width:100px;
+	height:100px;
+	color:white;
+	border:7px solid yellow;
+	position:relative;
+}
+.box10{
+	width:100px;
+	height:100px;
+	color:white;
+	border:7px solid red;
+	position:absolute;
+	right:50px;
+}
+.box11{
+	width:100px;
+	height:100px;
+	color:white;
+	border:7px solid yellow;
+	position:absolute;
+	left:50px;
+}
+.main1{
+	border:7px solid aqua;
+    width:500px;	
+    height:500px;	
+	position:relative;
+}
+.box12{
+	width:100px;
+	height:100px;
+	color:white;
+	position:static;
+	border:7px solid blue;
+}
+.box13{
+	width:100px;
+	height:100px;
+	color:white;
+	position:static;
+	
+	border:7px solid yellow;
+}
+.box14{
+	width:100px;
+	height:100px;
+	color:white;
+	position:fixed;
+	border:7px solid green;
+	top:0;
+	
+}
+.box15{
+	width:100px;
+	height:100px;
+	color:white;
+	position:fixed;
+	border:7px solid red;
+	bottom:0;
+	
+}
+.box16{
+	width:100px;
+	height:100px;
+	color:white;
+	position:static;
+	border:7px solid blue;
+}
+
+.main13{
+	width:200%;
+	height:200px;
+	background-color:pink;
+	padding:5px;
+	
+}
+.nav{
+	width:100%;
+	height:50px;
+	background-color:green;
+	padding:25px;
+	position:sticky;
+	top:0;
+	
+	}
+li{
+	display:inline-block;
+}
